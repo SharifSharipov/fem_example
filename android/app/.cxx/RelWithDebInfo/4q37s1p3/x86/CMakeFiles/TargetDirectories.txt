@@ -1,0 +1,2 @@
+/Users/sharifsharipov/Documents/projects/push_notification_example/android/app/.cxx/RelWithDebInfo/4q37s1p3/x86/CMakeFiles/edit_cache.dir
+/Users/sharifsharipov/Documents/projects/push_notification_example/android/app/.cxx/RelWithDebInfo/4q37s1p3/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/sharifsharipov/Development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sharifsharipov/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/sharifsharipov/Documents/projects/push_notification_example/android/app/.cxx/RelWithDebInfo/4q37s1p3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sharifsharipov/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/sharifsharipov/Documents/projects/push_notification_example/android/app/.cxx/RelWithDebInfo/4q37s1p3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
